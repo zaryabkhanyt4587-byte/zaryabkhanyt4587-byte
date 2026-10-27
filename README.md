@@ -2,7 +2,7 @@
 
 Full Stack Developer based in Swat, Pakistan.
 
-I build internal platforms, vendor portals and mobile apps for a multi-vertical delivery company at [Ananinja](https://github.com/ananinja). I started on the backend writing Kotlin and Spring Boot services, then moved to the frontend, where I now spend most of my time on large React and TypeScript codebases used daily by operations, warehouse and vendor teams.
+I build internal platforms, vendor portals and mobile apps for a multi-vertical delivery company at Ananinja. I started on the backend writing Kotlin and Spring Boot services, then moved to the frontend, where I now spend most of my time on large React and TypeScript codebases used daily by operations, warehouse and vendor teams.
 
 ## What I Work On
 
