@@ -1,43 +1,35 @@
 # Zaryab Khan
 
-Full Stack Developer based in Swat, Pakistan.
+Full Stack Developer based in Pakistan. I build web applications with React, TypeScript and Node, and backend services with Kotlin and Spring Boot.
 
-I build internal platforms, vendor portals and mobile apps for a multi-vertical delivery company at Ananinja. I started on the backend writing Kotlin and Spring Boot services, then moved to the frontend, where I now spend most of my time on large React and TypeScript codebases used daily by operations, warehouse and vendor teams.
+I care about clean, maintainable code, interfaces that feel fast and simple, and shipping work that is tested properly before it goes live.
 
-## What I Work On
+## What I Do
 
-- **Admin platforms** – resource lists, show pages, create and edit forms, filters, bulk actions and dashboards in a large React Admin application
-- **Vendor-facing portals** – workforce, timesheet and reporting screens, including Excel export and batch upload flows
-- **Mobile** – warehouse management features in a React Native app
-- **Backend services** – REST and JSON:API endpoints, entities, repositories and database migrations in Kotlin and Spring Boot microservices
-- **Public web** – SEO and metadata work on a Next.js customer website
+- **Web applications** – dashboards, admin panels and data-heavy interfaces with React and TypeScript
+- **Websites** – fast, SEO-friendly sites with Next.js and Vite
+- **Backend APIs** – REST services, database design and migrations with Kotlin and Spring Boot
+- **Mobile** – cross-platform apps with React Native
 
-## Technical Skills
+## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
 | Languages | TypeScript, JavaScript, Kotlin, SQL, HTML, CSS |
-| Frontend | React, React Admin, Next.js, Material UI, Tailwind CSS, Vite |
+| Frontend | React, Next.js, Vite, Tailwind CSS, Material UI |
 | Mobile | React Native |
-| Backend | Spring Boot, Liquibase, Kafka, PostgreSQL, REST, JSON:API |
-| Data and UI | Chart.js, react-datasheet-grid, Google Maps API, i18n and RTL layouts |
-| Testing and Quality | Playwright, end-to-end browser testing, oxlint, oxfmt, code review with Codacy |
-| Tools | Git, GitHub, Jira, Firebase, Docker, Kubernetes |
+| Backend | Spring Boot, Node.js, PostgreSQL, REST APIs |
+| CMS | WordPress |
+| Testing | Playwright, end-to-end testing |
+| Tools | Git, GitHub, Firebase, Docker, Cloudflare |
 
-## How I Work
+## Projects
 
-- Write code that follows the existing conventions of the codebase and keep diffs small and focused
-- Test every change end to end in the browser, including edge cases and error states, before opening a pull request
-- Document each pull request with a clear description, reproduction steps and before and after screenshots
-- Support light and dark themes, and left-to-right and right-to-left layouts, across user interfaces
-
-## Personal Projects
-
-- **Portfolio** – personal portfolio site, live at [zarryx1.web.app](https://zarryx1.web.app/)
-- **CV Builder** – a web application for creating and exporting resumes
-- **Marketplace Listing Tool** – a TypeScript tool for creating and managing marketplace product listings
+- **[Zarry Stack](https://zarrystack.com)** – my portfolio and home for free web tools
+- **[CV Builder](https://cv.zarrystack.com)** – create a resume from 14 templates and export it as a PDF
+- **Marketplace Listing Tool** – a TypeScript tool for creating and managing product listings
 
 ## Contact
 
-- Portfolio: [zarryx1.web.app](https://zarryx1.web.app/)
+- Website: [zarrystack.com](https://zarrystack.com)
 - Email: [zaryabkhanyt4587@gmail.com](mailto:zaryabkhanyt4587@gmail.com)
